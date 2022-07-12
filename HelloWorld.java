@@ -9,12 +9,7 @@ package first_java_project;
  */
 public class HelloWorld {
 
-	/**
-	 * 
-	 */
-	public HelloWorld() {
-		// TODO Auto-generated constructor stub
-	}
+
 
 	/**
 	 * @param args
